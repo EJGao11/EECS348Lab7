@@ -1,4 +1,4 @@
-main: main.cpp
-	g++ -std=c++11 main.cpp -o main
+main: lab7.cpp
+	g++ -std=c++11 lab7.cpp -o lab7
 clean:
 	rm -f *.o main
